@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        // tsconfig options required by InversifyJS (https://github.com/inversify/InversifyJS)
+        "types": ["reflect-metadata"],
+        "lib": ["es6"],
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+
+        // needed for https://github.com/inversify/InversifyJS/issues/995
+        "target": "es5",
+        
+        "strict": true,
+        "outDir": "dist"
+    }
+}
