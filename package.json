@@ -8,6 +8,7 @@
     "build": "tsc"
   },
   "keywords": [],
+  "repository": "https://github.com/jonathonflorek/realworld-onion",
   "author": "Jonathon Florek",
   "license": "MIT",
   "devDependencies": {
